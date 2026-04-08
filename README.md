@@ -4,7 +4,7 @@
 
 This is a Selenium WebDriver automation testing project built with C# and NUnit. The project contains automated tests for web functionality, including:
 
-- **PDF File Upload Tests**: Validates file upload functionality on web pages, supporting PDF, JPG, and XLS files
+- **[PDF File Upload Tests](https://the-internet.herokuapp.com/upload)**: Validates file upload functionality on web pages, supporting PDF, JPG, and XLS files
 
 The project uses Selenium WebDriver to automate browser interactions and NUnit as the testing framework.
 
